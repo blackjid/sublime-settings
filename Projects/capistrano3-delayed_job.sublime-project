@@ -1,0 +1,21 @@
+{
+    "folders": [
+        {
+            "follow_symlinks": true,
+            "path": "/Users/jidonoso/src/capistrano3-delayed-job"
+        },
+        {
+            "follow_symlinks": true,
+            "path": "/Users/jidonoso/src/capistrano-bower"
+        },
+        {
+            "follow_symlinks": true,
+            "path": "/Users/jidonoso/src/capistrano3-nginx"
+        },
+        {
+            "follow_symlinks": true,
+            "path": "/Users/jidonoso/src/capistrano-nodenv"
+        }
+
+    ]
+}
