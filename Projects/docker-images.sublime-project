@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/docker-apt"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/docker-rbenv"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/docker-ruby"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/docker-rails"
+		}
+	]
+}
