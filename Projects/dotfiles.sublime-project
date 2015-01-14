@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/dotfiles"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/jidonoso/src/platanus/dotfiles"
+		}
+	]
+}
