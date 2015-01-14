@@ -1,6 +1,7 @@
 Package Control.system-ca-bundle
 Package Control.cache/
 Package Control.last-run
+Package Control.*-ca-bundle
 
 FileHistory*
 
